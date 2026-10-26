@@ -2,10 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090f22,45:37205b,100:02c2c7&text=FN1p&fontColor=ffffff&fontSize=76&fontAlignY=37&desc=BUILD%20%7C%20STREAM%20%7C%20CREATE&descAlignY=60&descSize=18&animation=fadeIn" alt="FN1p — Build, Stream, Create" width="100%" />
 
-### ⚡ Windows apps · Productivity tools · Twitch integrations
+### ⚡ PFT Studio · Desktop apps · Streaming tools · Browser extensions
 
 <a href="https://github.com/FN1p?tab=followers"><img src="https://img.shields.io/github/followers/FN1p?style=for-the-badge&logo=github&label=FOLLOWERS&color=7957d5" alt="Followers"/></a>
 <a href="https://www.twitch.tv/fnip_1"><img src="https://img.shields.io/badge/TWITCH-fnip__1-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
+<a href="https://t.me/PFT_Studio"><img src="https://img.shields.io/badge/TELEGRAM-PFT%20Studio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="PFT Studio Telegram"/></a>
 <img src="https://komarev.com/ghpvc/?username=FN1p&label=PROFILE%20VIEWS&style=for-the-badge&color=04b6b8" alt="Profile views"/>
 
 </div>
@@ -16,10 +17,11 @@
 
 I'm **FN1p** — I build desktop software, experiment with browser extensions and create tools for streaming.
 
-- 🖥️ Developing **VortexChat**, a Windows Twitch chat companion
+- 🖥️ Developing **[VortexChat](https://github.com/FN1p/VortexChat)**, a Windows Twitch chat app and browser extension
 - 📦 Building **WorkBOXig**, a productivity and study workspace for Windows
 - 📡 Exploring **OBS overlays, Twitch chat, 7TV, BetterTTV and FrankerFaceZ**
 - 🎮 Streaming games on **Twitch**
+- 📣 Project news and release announcements on **[PFT Studio Telegram](https://t.me/PFT_Studio)**
 - ⚡ Building, testing and improving real projects
 
 ### 🚀 Featured projects
@@ -37,8 +39,8 @@ A companion app for Twitch streams with a focus on chat, emotes and creator work
 
 <br/><br/>
 
-<a href="https://github.com/FN1p/vortexchat-extension"><img src="https://img.shields.io/badge/PROJECT-VortexChat-101626?style=for-the-badge&logo=github&logoColor=white" alt="VortexChat project"/></a>
-<a href="https://github.com/FN1p/vortexchat-extension/releases"><img src="https://img.shields.io/badge/RELEASES-Download-04b6b8?style=for-the-badge&logo=github&logoColor=white" alt="VortexChat releases"/></a>
+<a href="https://github.com/FN1p/VortexChat"><img src="https://img.shields.io/badge/PROJECT-VortexChat-101626?style=for-the-badge&logo=github&logoColor=white" alt="VortexChat project"/></a>
+<a href="https://github.com/FN1p/VortexChat/releases"><img src="https://img.shields.io/badge/RELEASES-Download-04b6b8?style=for-the-badge&logo=github&logoColor=white" alt="VortexChat releases"/></a>
 
 </td></tr></table>
 
@@ -84,7 +86,8 @@ A desktop workspace for schedules, notebooks, tasks, focus sessions and reminder
 <div align="center">
 
 <a href="https://www.twitch.tv/fnip_1"><img src="https://img.shields.io/badge/Twitch-fnip__1-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Watch on Twitch"/></a>
-<a href="https://github.com/FN1p/vortexchat-extension"><img src="https://img.shields.io/badge/GitHub-VortexChat-24292e?style=for-the-badge&logo=github&logoColor=white" alt="VortexChat on GitHub"/></a>
+<a href="https://github.com/FN1p/VortexChat"><img src="https://img.shields.io/badge/GitHub-VortexChat-24292e?style=for-the-badge&logo=github&logoColor=white" alt="VortexChat on GitHub"/></a>
+<a href="https://t.me/PFT_Studio"><img src="https://img.shields.io/badge/Telegram-PFT%20Studio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="PFT Studio Telegram"/></a>
 <a href="https://github.com/FN1p/WorkBOXig"><img src="https://img.shields.io/badge/GitHub-WorkBOXig-24292e?style=for-the-badge&logo=github&logoColor=white" alt="WorkBOXig on GitHub"/></a>
 
 </div>
